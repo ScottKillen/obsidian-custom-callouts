@@ -1,0 +1,4 @@
+.callout[data-callout="due-today"] {
+  --callout-color: 255, 145, 0;
+  --callout-icon: lucide-calendar-days
+}
