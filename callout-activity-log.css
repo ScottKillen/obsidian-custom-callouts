@@ -1,5 +1,5 @@
 /* See https://lucide.dev for icon codes */
 .callout[data-callout="activity-log"] {
-  --callout-color: 255, 145, 0;
+  --callout-color: var(--color-orange-rgb);
   --callout-icon: lucide-clipboard-list;
 }
