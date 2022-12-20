@@ -1,3 +1,4 @@
+/* See https://lucide.dev for icon codes */
 .callout[data-callout="due-later"] {
   --callout-color: 255, 255, 0;
   --callout-icon: lucide-calendar-clock
