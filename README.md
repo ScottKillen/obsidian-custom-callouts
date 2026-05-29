@@ -1,3 +1,5 @@
+# This project has moved to [codeberg](https://codeberg.org/nellik/obsidian-custom-callouts).
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
